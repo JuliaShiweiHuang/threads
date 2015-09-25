@@ -1,0 +1,5 @@
+The only user input to the program is the name of a text file, which contains a list of integers to sort. 
+The first line of the file will contain N, the number of values in the file.
+This is followed by N lines, where each line contains one integer value.
+The program should produce an error message and stop if the input file is not found. 
+You may assume that there will be N values in the file. 
