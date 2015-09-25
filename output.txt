@@ -1,0 +1,4 @@
+The program should create three text files.
+The first two should be the sorted sublists created by each thread.
+These should be called sorted1.txt and sorted2.txt. 
+The last file should be the final sorted list, called finalAnswer.txt
