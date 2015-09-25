@@ -1,0 +1,7 @@
+1. This program is created by using threads.
+2. Since we have threads, we break the list into parts, feed the parts to separate threads that do the sorting.
+3. Threads use the same address space. This means that the data must be passed to a function.
+4. The main function will compute the final sorted list by combining all of the sorted sublists. This needs to be done in O(N) linear time.
+5. The sorting function from my threads could be either insertion sort or bubble sort.
+6. --> First wrote the program that reads the list of numbers and sorts them. So that you know the program is reading the list correctly and your sort is functioning properly.
+   --> Try to add in the code for 2 threads.
